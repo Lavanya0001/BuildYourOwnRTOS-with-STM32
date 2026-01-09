@@ -1,0 +1,81 @@
+2026-01-06 05:43:05,319 [INFO] Activator:176 - 
+
+
+2026-01-06 05:43:05,322 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 05:43:07,798 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:25:45,946 [INFO] Activator:176 - 
+
+
+2026-01-06 12:25:45,946 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:25:48,439 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:26:50,921 [INFO] Activator:176 - 
+
+
+2026-01-06 12:26:50,923 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:26:53,508 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:27:25,652 [INFO] Activator:176 - 
+
+
+2026-01-06 12:27:25,653 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:27:28,354 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:27:55,611 [INFO] Activator:176 - 
+
+
+2026-01-06 12:27:55,612 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:27:58,727 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:28:27,526 [INFO] Activator:176 - 
+
+
+2026-01-06 12:28:27,527 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:28:30,475 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:53:28,813 [INFO] Activator:176 - 
+
+
+2026-01-06 12:53:28,813 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:53:31,234 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:54:45,675 [INFO] Activator:176 - 
+
+
+2026-01-06 12:54:45,676 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:54:48,104 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:55:22,397 [INFO] Activator:176 - 
+
+
+2026-01-06 12:55:22,398 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:55:25,238 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:55:54,751 [INFO] Activator:176 - 
+
+
+2026-01-06 12:55:54,752 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:55:57,532 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 12:56:52,528 [INFO] Activator:176 - 
+
+
+2026-01-06 12:56:52,529 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 12:56:55,333 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 13:03:17,596 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT SessionManagerDBus: Failed to UnregisterClient: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying
+2026-01-06 13:06:14,918 [INFO] Activator:176 - 
+
+
+2026-01-06 13:06:14,919 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 13:06:18,174 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 13:07:43,984 [INFO] Activator:176 - 
+
+
+2026-01-06 13:07:43,987 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 13:07:47,560 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 13:12:09,106 [INFO] Activator:176 - 
+
+
+2026-01-06 13:12:09,108 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 13:12:12,031 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 13:35:28,596 [INFO] Activator:176 - 
+
+
+2026-01-06 13:35:28,597 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 13:35:31,759 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-06 13:36:02,847 [INFO] Activator:176 - 
+
+
+2026-01-06 13:36:02,848 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-06 13:36:05,922 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 

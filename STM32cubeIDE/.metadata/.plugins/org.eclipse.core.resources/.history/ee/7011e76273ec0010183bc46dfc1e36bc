@@ -1,0 +1,13 @@
+/*
+ * uart.h
+ *
+ *  Created on: Jan 7, 2026
+ *      Author: lavanyaimadabattina
+ */
+
+#ifndef UART_H_
+#define UART_H_
+
+void uart_tx_init(void);
+
+#endif /* UART_H_ */

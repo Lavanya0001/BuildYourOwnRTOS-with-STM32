@@ -1,0 +1,28 @@
+14:30:30 **** Incremental Build of configuration Debug for project 1_uart_driver ****
+make -j12 all 
+arm-none-eabi-gcc "../Src/uart.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32WB -DSTM32WB55RGVx -c -I"/home/lavanyaimadabattina/MEL_007/MEL_007_Pers/BuildYourOwnRTOS/STM32cubeIDE/0_led_driver/chip_headers/CMSIS/Include" -I"/home/lavanyaimadabattina/MEL_007/MEL_007_Pers/BuildYourOwnRTOS/STM32cubeIDE/0_led_driver/chip_headers/CMSIS/Device" -I"/home/lavanyaimadabattina/MEL_007/MEL_007_Pers/BuildYourOwnRTOS/STM32cubeIDE/0_led_driver/chip_headers/CMSIS/Device/ST/STM32WBxx/Include" -I"/home/lavanyaimadabattina/MEL_007/MEL_007_Pers/BuildYourOwnRTOS/STM32cubeIDE/1_uart_driver/Inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/uart.d" -MT"Src/uart.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/uart.o"
+arm-none-eabi-gcc -o "1_uart_driver.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/lavanyaimadabattina/MEL_007/MEL_007_Pers/BuildYourOwnRTOS/STM32cubeIDE/1_uart_driver/STM32WB55RGVX_FLASH.ld" --specs=nosys.specs -Wl,-Map="1_uart_driver.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 1_uart_driver.elf
+ 
+arm-none-eabi-size  1_uart_driver.elf 
+arm-none-eabi-objdump -h -S 1_uart_driver.elf  > "1_uart_driver.list"
+   text	   data	    bss	    dec	    hex	filename
+   5292	     92	   1900	   7284	   1c74	1_uart_driver.elf
+Finished building: default.size.stdout
+ 
+Finished building: 1_uart_driver.list
+ 
+14:30:34 **** Incremental Build of configuration Debug for project 1_uart_driver ****
+make -j12 all 
+arm-none-eabi-size  1_uart_driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5292	     92	   1900	   7284	   1c74	1_uart_driver.elf
+Finished building: default.size.stdout
+ 
+14:32:39 **** Incremental Build of configuration Debug for project 1_uart_driver ****
+make -j12 all 
+arm-none-eabi-size  1_uart_driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5292	     92	   1900	   7284	   1c74	1_uart_driver.elf
+Finished building: default.size.stdout
+ 

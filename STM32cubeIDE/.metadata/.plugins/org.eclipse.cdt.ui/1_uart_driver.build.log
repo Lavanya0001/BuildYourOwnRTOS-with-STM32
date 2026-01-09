@@ -1,0 +1,10 @@
+14:32:39 **** Incremental Build of configuration Debug for project 1_uart_driver ****
+make -j12 all 
+arm-none-eabi-size  1_uart_driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5292	     92	   1900	   7284	   1c74	1_uart_driver.elf
+Finished building: default.size.stdout
+ 
+
+14:32:39 Build Finished. 0 errors, 0 warnings. (took 122ms)
+
