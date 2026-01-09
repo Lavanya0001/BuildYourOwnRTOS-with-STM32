@@ -1,0 +1,19 @@
+/*
+ * led.h
+ *
+ *  Created on: Jan 6, 2026
+ *      Author: Lavanya Imadabattina
+ */
+
+#ifndef LED_H_
+#define LED_H_
+
+#include "stm32wb55xx.h"
+
+void led_init(void);
+void led_on(void);
+void led_off(void);
+
+
+
+#endif /* LED_H_ */
