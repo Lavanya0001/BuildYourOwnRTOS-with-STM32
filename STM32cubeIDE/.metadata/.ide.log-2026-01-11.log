@@ -1,6 +1,0 @@
-2026-01-11 15:49:59,691 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
-2026-01-11 16:17:09,641 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
-2026-01-11 16:17:11,528 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
-2026-01-11 16:17:14,542 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
-2026-01-11 16:17:50,976 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
-2026-01-11 16:17:59,924 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
